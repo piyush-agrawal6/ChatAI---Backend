@@ -1,5 +1,3 @@
-# Shopaholic-Backend
-This is the database made for Sephora ecommerce frontend clone . This database is made using NodeJS , MongoDB , and express JS . Database is deployed using Render.
 
 # Getting started
 
